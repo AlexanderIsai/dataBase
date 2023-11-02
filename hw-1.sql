@@ -22,7 +22,7 @@ Price >= 20
 
 -- 3. Вывести страны поставщиков.
 
-SELECT
+SELECT DISTINCT
 Country
 FROM [Suppliers]
 
